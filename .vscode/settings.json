@@ -1,0 +1,14 @@
+{
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": -1,
+    "security.workspace.trust.untrustedFiles": "open",
+    "redhat.telemetry.enabled": true,
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path.mac": "/Users/simonfishel/.vs-kubernetes/tools/helm/darwin-amd64/helm",
+        "vscode-kubernetes.minikube-path.mac": "/Users/simonfishel/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
+    },
+    "editor.minimap.enabled": false,
+    "editor.scrollBeyondLastLine": false,
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange"
+}

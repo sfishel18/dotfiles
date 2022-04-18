@@ -1,0 +1,16 @@
+{
+    "extensions": [
+        "ms-vscode.js-debug-companion",
+        "ms-vscode.references-view",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-rename-tag",
+        "golf1052.code-sync",
+        "hashicorp.terraform",
+        "ms-azuretools.vscode-docker",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "ms-vscode-remote.remote-containers",
+        "redhat.vscode-yaml",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}

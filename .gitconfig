@@ -1,7 +1,18 @@
 [core]
 	excludesfile = /Users/simonfishel/.gitignore
+	editor = code --disable-extensions -w
 [user]
 	email = simonf@gmail.com
 	name = Simon Fishel
 [init]
 	defaultBranch = main
+[alias]
+	co = checkout
+	cob = checkout -b
+	st = status
+	fom = fetch origin main
+	rbom = rebase origin/main
+	ca = commit -a
+	cam = commit -am
+	cm = commit -m
+	amend = commit -a --amend --no-edit
