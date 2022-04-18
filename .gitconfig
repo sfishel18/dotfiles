@@ -1,0 +1,7 @@
+[core]
+	excludesfile = /Users/simonfishel/.gitignore
+[user]
+	email = simonf@gmail.com
+	name = Simon Fishel
+[init]
+	defaultBranch = main
